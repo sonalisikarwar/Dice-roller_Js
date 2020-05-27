@@ -1,0 +1,32 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+  button {
+    background-color: transparent;
+    border-radius: 6px;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-transform: uppercase;
+    width: 200px;
+    cursor: pointer;
+    margin-top: 150px;
+    box-shadow: black 3px 2px ;
+  }
+  #placeholder {
+    height: 100px;
+    width: 100px;
+    padding: 90px;
+    margin: 50px auto;
+    border: 1px solid black;
+    border-radius: 10px;  
+    font-size:80px;
+    background-image: linear-gradient(rgba(255, 0, 0, 0.753), rgb(255, 0, 0));
+    color: white;
+    box-shadow: black 2px 4px ;
+  }
+  
+  body{
+    background-image: linear-gradient(rgb(0, 102, 255), rgb(204, 0, 255));
+  }
